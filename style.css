@@ -114,12 +114,13 @@ header{
 .mindset div{
     background-image: url(/images/gradient2.png), url(/images/watch.png);
     background-repeat: no-repeat, no-repeat;
-    background-position: auto, auto;
+    background-position: left, right;
     background-size: cover, cover;
-    /* max-height: 300px; */
-    /* max-width: 1140px; */
+    max-height: 300px;
+    max-width: 1140px;
     padding: 60px 615px 60px 65px;
     border-radius: 10px;
+    margin: 130px 230px;
 }
 .mindset{
     margin: 130px 230px;
