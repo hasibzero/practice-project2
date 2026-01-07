@@ -116,11 +116,12 @@ header{
     background-repeat: no-repeat, no-repeat;
     background-position: left, right;
     background-size: cover, cover;
-    max-height: 300px;
-    max-width: 1140px;
+    
     padding: 60px 615px 60px 65px;
+    /* max-height: 300px; */
+    max-width: 1140px;
     border-radius: 10px;
-    margin: 130px 230px;
+    /* margin: 130px 230px; */
 }
 .mindset{
     margin: 130px 230px;
