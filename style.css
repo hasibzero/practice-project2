@@ -112,9 +112,9 @@ header{
     font-size: 40px;
 }
 .mindset div{
-    background-image: url(/images/gradient2.png), url(/images/watch.png);
+    background-image: url(images/gradient2.png), url(images/watch.png);
     background-repeat: no-repeat, no-repeat;
-    background-position: left, right;
+    background-position: left, left;
     background-size: cover, cover;
     
     padding: 60px 615px 60px 65px;
